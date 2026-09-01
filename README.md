@@ -18,7 +18,9 @@ I build large-scale distributed systems and cloud-native platforms — the kind 
 - [Medium](https://medium.com/@shubham.kumbhalkar) · [The Nuclear Geeks](https://thenucleargeeks.com/author/shubhamkumbhalkar/)
 
 ### 📄 Publications & recognition
+- **SSRN (2026)** — [*"Faster, Fairer, Cheaper: The AI Revolution in US Consumer Lending"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6948938)
 - **IJRET** — *"Wireless Audio Switching and Transmission System for Public Address"*
+- [Google Scholar](https://scholar.google.com/citations?user=XXWruvEAAAAJ) · [ORCID](https://orcid.org/0009-0008-3700-3594)
 - National competition awards — Explore 5.0 (2nd), ZHEP14 / Project Loon (1st), TECHNOPATI (2nd)
 
 ### 🌐 Portfolio
