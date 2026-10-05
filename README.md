@@ -6,6 +6,8 @@ I design and build large-scale distributed systems and cloud-native platforms, t
 
 I care about three things: systems that scale, code that other engineers can trust, and giving back to the engineering community that got me here.
 
+I do my best work in high-ownership, on-call environments: driving production incidents to resolution under pressure, making fast and data-informed calls, and coordinating across teams to ship under real deadlines.
+
 ---
 
 ### 🔧 What I work with
