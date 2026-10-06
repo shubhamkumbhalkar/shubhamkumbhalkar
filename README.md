@@ -48,7 +48,7 @@ I regularly serve as a **judge and technical evaluator** for hackathons and star
 
 ### 📄 Research & writing
 - **SSRN (2026)** — [*Faster, Fairer, Cheaper: The AI Revolution in US Consumer Lending*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6948938)
-- **IJRET** — *Wireless Audio Switching and Transmission System for Public Address*
+- **IJRET (2016)** — [*Wireless Audio Transmission and Switching System for Public Address*](https://ijret.org/volumes/2016v05/i22/IJRET20160522005.pdf)
 - I write about distributed systems, cloud, and AI engineering on [Medium](https://medium.com/@shubham.kumbhalkar) and [The Nuclear Geeks](https://thenucleargeeks.com/author/shubhamkumbhalkar/)
 - [Google Scholar](https://scholar.google.com/citations?user=XXWruvEAAAAJ) · [ORCID](https://orcid.org/0009-0008-3700-3594)
 
