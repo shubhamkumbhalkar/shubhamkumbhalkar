@@ -31,6 +31,8 @@ I regularly serve as a **judge and technical evaluator** for hackathons and star
 | **[InfinityX Global Hackathon 2K26](certificates/InfinityX-Judge-Confirmation.pdf)** (Innovation Hacks × SVHEC) | Judge / Technical Evaluator | Global, online |
 | **Frontier Cascadia** @ UW Foster School of Business | In-person judge | 50+ teams, 200+ students, 12-judge panel |
 | **USAII Global AI Hackathon 2026** | Core judge | 90+ countries |
+| **Decision Grade AI** @ SF Tech Week | Judge & mentor | 650+ attendees, San Francisco |
+| **All You Can Do With AI** (UT Dallas) | Judge | University hackathon |
 | **AI Demo Day 4 · TechCommons Hacks V2 · Vibe Pitch 8 · Vibe Awards · OJ Ventures** | Judge / pitch-panel | Startup & demo-day pitches |
 
 <p>
